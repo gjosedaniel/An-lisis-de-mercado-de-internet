@@ -65,7 +65,6 @@ El Ente Nacional de Comunicaciones (ENACOM) regula las telecomunicaciones en Arg
 ### Proceso ETL:
 - Separación del archivo Excel por páginas.
 - Conversión del tipo de dato y corrección de errores.
-- Integración de datos como inflación e ingresos en una tabla consolidada.
 - Exportación de los datos limpios en formato CSV a la carpeta data.
 
 ### EDA (Exploración de Datos):
@@ -73,7 +72,6 @@ El Ente Nacional de Comunicaciones (ENACOM) regula las telecomunicaciones en Arg
 - Evaluación del crecimiento de conexiones por provincia entre 2014-2024.
 - Distribución tecnológica actual.
 - Evolución de tecnologías y accesos dial-up.
-- Impacto de la inflación en ingresos reales.
 
 ## Reporte y KPIs
 El reporte cubre la evolución de tecnologías, velocidades de conexión y cobertura regional en Argentina desde 2014 hasta 2024. Utilizando un dashboard interactivo (.PBIX) desarrollado en Power BI, los usuarios pueden explorar:
